@@ -1,0 +1,13 @@
+int64 id
+float64[] real_distance
+float64 estimated_distance
+bool use_depth
+float64 center_x
+float64 center_y
+float64 error_heading
+float64 error_altitude
+float64 altitude
+float64 controller_error
+float64 control_output
+bool target_lost
+bool target_detected

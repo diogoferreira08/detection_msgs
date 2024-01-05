@@ -50,6 +50,7 @@ add_message_files(
   FILES
   BoundingBox.msg
   BoundingBoxes.msg
+  PublishData.msg
 )
 
 ## Generate services in the 'srv' folder
