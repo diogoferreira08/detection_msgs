@@ -11,3 +11,6 @@ float64 controller_error
 float64 control_output
 bool target_lost
 bool target_detected
+float64 distance_cnst
+float64 distance_singer
+float64 distance_imm
