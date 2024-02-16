@@ -12,5 +12,16 @@ float64 control_output
 bool target_lost
 bool target_detected
 float64 distance_cnst
-float64 distance_singer
 float64 distance_imm
+float64 distance_singer
+float64 target_x
+float64 target_y
+float64 uav_x
+float64 uav_y
+float64 real_target_x
+float64 real_target_y
+float64 estimated_target_x
+float64 estimated_target_y
+float64 Vx
+float64 Vy
+float64 Vz
